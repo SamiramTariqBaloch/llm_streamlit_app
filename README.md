@@ -27,7 +27,8 @@ cd D:\internship\myproject
 <img width="575" height="896" alt="image" src="https://github.com/user-attachments/assets/9b87e5ad-8343-4858-8591-e4d1afbd17d0" />
 
 ##after selcting clear caht all chats will be disappear
-<img width="1794" height="859" alt="image" src="https://github.com/user-attachments/assets/1bfbe35c-80a6-4311-8b2a-01b6944fdc87" />
+![Streamlit App Screenshot](.\Screenshot 2025-11-27 232306.png)
+
 
 
 
