@@ -30,7 +30,8 @@ cd D:\internship\myproject
 <img width="1794" height="859" alt="image" src="https://github.com/user-attachments/assets/1bfbe35c-80a6-4311-8b2a-01b6944fdc87" />
 
 
-![Alt text](https://raw.githubusercontent.com/username/repo/branch/path/to/image.png)
+
+
 
 
 
